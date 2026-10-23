@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env*
+credentials*
+installation.json
+runs/
+local/
+.worktrees/
+# Historical private artifacts remain local; publish only maintained generic docs.
+/docs/*
+!/docs/implementation-plan.md
+!/docs/maintaining.md
+!/docs/verification-1.2.md
+/evaluations/

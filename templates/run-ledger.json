@@ -1,0 +1,12 @@
+{
+  "purpose": "Diagnostic coverage ledger; not runtime proof or a replacement for report.json",
+  "source_revision": "record observed identity",
+  "runtime_identity": {},
+  "target_profile": "user-selected file and captured fingerprint",
+  "limits": {"total_deadline": null, "spend_cap": null, "source": "live user request and actual host constraints"},
+  "coverage": [],
+  "blockers": [],
+  "fixtures": [],
+  "next_action": "Discover and prepare before execution",
+  "completion": "partial"
+}

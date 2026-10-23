@@ -1,0 +1,88 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "6df5dcb63468b3c63be3ff2cd3ec6c58514809104bf179e1d27ebc9a61ee82f0"
+    },
+    {
+      "path": "README.md",
+      "sha256": "19fa397a7d7842bd5ac9d2840ea7fa992adbcd0e80150c2824b2b93611ed5f7e"
+    },
+    {
+      "path": "scripts_install.py",
+      "sha256": "f292c815869cfb8c7e5897f8734978c2849861b3b09dacb20610cfa8963ccd8b"
+    },
+    {
+      "path": "scripts_manifest.py",
+      "sha256": "2bf82679f4a140e3794008fdd64c315e423c9c402fd612e2240c7d39106f6c5b"
+    },
+    {
+      "path": "docs/implementation-plan.md",
+      "sha256": "893c26cfcdab8a7e4470dd7be357fba31575981908b28d7f989146803c8d70eb"
+    },
+    {
+      "path": "docs/maintaining.md",
+      "sha256": "5957621df125dda2bfaeaaebc3ec6375fe2e34c806250a5a5ca4ca7b3d9c7125"
+    },
+    {
+      "path": "docs/verification-1.2.md",
+      "sha256": "7c7b55c75bc06233048b7adf026ab96050e880b9dd48c421a707537cb1c64785"
+    },
+    {
+      "path": "templates/target-profile.md",
+      "sha256": "d33473a83a7ab1b0c08fa438b545b18563d3417f1b3d4d088f79ef2a8fc17ca0"
+    },
+    {
+      "path": "templates/run-ledger.json",
+      "sha256": "8246724528dbf52ff93a7e416f9ebb9890a227b649cf44187f579cce852f3295"
+    },
+    {
+      "path": "tests/test_install.py",
+      "sha256": "477d419e92fb5f12ef1b884d943ee4a06f6a8a3fc34a5c7b6cd6e261fce94dbb"
+    },
+    {
+      "path": "tests/test_audit.py",
+      "sha256": "77ed89cd334762e3fe9226b6b147965515c7af4a73cf99dff1ec97aa26f4e1b7"
+    },
+    {
+      "path": "repo-audit/SKILL.md",
+      "sha256": "9f23823313df0ffe147bece05041f9d0eb80e994b743c0474d856a02617c1c43"
+    },
+    {
+      "path": "repo-audit/agents/openai.yaml",
+      "sha256": "0d9d1137bec94e5fe69c098d7c62369ac742f84eb5ca76aac3039c322904db26"
+    },
+    {
+      "path": "repo-audit/scripts/audit.py",
+      "sha256": "63900cb5ec8c11c01441891caad1cb787ad97f9708940145a20531884becf635"
+    },
+    {
+      "path": "repo-audit/references/contract.md",
+      "sha256": "790c3e2c27bfc044fb3ad89b9f41cbea1575a1885ba2de627f819d16c44da1ac"
+    },
+    {
+      "path": "repo-audit/references/delegation.md",
+      "sha256": "d067ebbd518d43f22268bfa60f8a37727b45290e8e588bd27b66bc10f11f6a7e"
+    },
+    {
+      "path": "repo-audit/references/evidence.md",
+      "sha256": "6db4489a0570abcdbb9861515f38efafbb977c54ca08fa48c428b57174ee9699"
+    },
+    {
+      "path": "repo-audit/references/project-verification.md",
+      "sha256": "3f9a9dbd7c6a5b76ec8d2360d709e4bb8f965c5a67aba9ebf73b923e2eaed7be"
+    },
+    {
+      "path": "repo-audit/references/pstack.md",
+      "sha256": "5ff8001ba52ca25e49ef5c75263732f47b0db56b0dfaf8f1c5342da9e4c5a645"
+    },
+    {
+      "path": "repo-audit/references/runbook.md",
+      "sha256": "6e43ac65b0cd11e1594e25daa6647aed6b7d1bf07c7d160003c1b95842aec96c"
+    },
+    {
+      "path": "repo-audit/references/target-preparation.md",
+      "sha256": "ca3bdb34e91246833252c46e19d43fdd2e275b47581c83419120ce8ca7fcb1d1"
+    }
+  ]
+}
