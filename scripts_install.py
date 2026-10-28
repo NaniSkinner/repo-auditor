@@ -23,7 +23,7 @@ def profile_text(skill, contract):
     return ('name = "repo-auditor"\n'
             'description = "Watson, the dedicated Audit Agent. Repository audit and verification-path agent. '
             'Use only for explicit repo-audit tasks, not general development or PR lifecycle work."\n'
-            'developer_instructions = ' + json.dumps(instructions) + '\n'
+            'developer_instructions = ' + json.dumps(instructions, ensure_ascii=False) + '\n'
             '\n[features]\nmemories = false\n')
 
 

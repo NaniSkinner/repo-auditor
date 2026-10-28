@@ -10,7 +10,7 @@
     },
     {
       "path": "scripts_install.py",
-      "sha256": "cf4ee1ed4e1f91d42f1e314889d3353263d8885a48683fb6c0b3c1def6970d3a"
+      "sha256": "257fced91401778a19eef7d24cf8756196efc8f2f49c81cb875996a3559ba421"
     },
     {
       "path": "scripts_manifest.py",
@@ -38,7 +38,7 @@
     },
     {
       "path": "tests/test_install.py",
-      "sha256": "477d419e92fb5f12ef1b884d943ee4a06f6a8a3fc34a5c7b6cd6e261fce94dbb"
+      "sha256": "c0c8390f9b3d24307e4b378b2eb8c93a377586191fe8fde806ab8ef2f581f383"
     },
     {
       "path": "tests/test_audit.py",

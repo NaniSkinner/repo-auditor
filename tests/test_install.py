@@ -20,6 +20,13 @@ class InstallationTests(unittest.TestCase):
         self.addCleanup(self.tmp.cleanup)
         self.root = Path(self.tmp.name)
 
+    def test_profile_preserves_non_bmp_unicode_in_valid_toml(self):
+        import tomllib
+        contract = 'Example contract\n\nMade with 🍵\n'
+        generated = installer.profile_text(Path('/example/skill'), contract)
+        parsed = tomllib.loads(generated)
+        self.assertTrue(parsed['developer_instructions'].endswith(contract))
+
     def test_installs_exact_contract_and_explicit_skill(self):
         destination = self.root / 'source'
         receipt = installer.install(ROOT, destination, self.root / 'skills', self.root / 'agents')
