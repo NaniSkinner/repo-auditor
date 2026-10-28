@@ -6,7 +6,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "b43d80b63d96fab85d299468ce1a3ae44a636c80696768ab60aa5e9ddc61e696"
+      "sha256": "8c8bf8cacd9683e797fab6b3a83c6782814c0a262acd976cf186115f0105ee46"
     },
     {
       "path": "scripts_install.py",
@@ -46,7 +46,7 @@
     },
     {
       "path": "repo-audit/SKILL.md",
-      "sha256": "0506ab4457fe937908c12d0cf7c37aae761c198b9500c8f58294835dca467a55"
+      "sha256": "2cb6222fbebeb258738396c0a92c8dc3d3f0d109194c1975e0ff413b3697ac03"
     },
     {
       "path": "repo-audit/agents/openai.yaml",
@@ -58,7 +58,7 @@
     },
     {
       "path": "repo-audit/references/contract.md",
-      "sha256": "790c3e2c27bfc044fb3ad89b9f41cbea1575a1885ba2de627f819d16c44da1ac"
+      "sha256": "a44643cc8636752bcb7127491873be4c2a734eafabbfeb9bd446fbd6cf74e011"
     },
     {
       "path": "repo-audit/references/delegation.md",

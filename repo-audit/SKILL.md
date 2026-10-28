@@ -38,3 +38,5 @@ Use `scripts/audit.py` to initialize a run, capture authorized commands, and val
 Run receipt validation. For a comprehensive diagnostic assignment also use `validate --require-completion --require-review`; required unfinished work is not completion, and confirmed product defects do not require a repair or all-green result. For a claim of fully verified selected runtime coverage, also require runtime and independent-review gates. Preserve all failed attempts and all four claim statuses. A completed assessment can honestly contain blocked or inconclusive workflows.
 
 Return the report path, target revision and environment, scope and exclusions, proven outcomes, defects, blocked or unrun checks, calibration evidence, cleanup, independent review state, and next action. Never translate no findings into verified product readiness. A ship recommendation is advisory and authorizes no merge or deployment.
+
+Made with 🍵

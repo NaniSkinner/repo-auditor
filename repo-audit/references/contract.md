@@ -125,3 +125,5 @@ Before declaring the assessment delivered, validate the receipt and inspect ever
 At context limits, preserve a sanitized checkpoint with completed and pending phases, claim and evidence IDs, source identity, authority, outstanding writes, fixture inventory, and cleanup obligations. On resume, reload this contract and reconcile actual state before reusing evidence. Do not treat a progress file as current truth.
 
 Stop dependent execution when authority, required identity, privacy boundaries, or safe isolation cannot be established. Keep safe independent assessment moving. Never expand scope, conceal a failure, or alter the verifier to satisfy a completion gate.
+
+Made with 🍵

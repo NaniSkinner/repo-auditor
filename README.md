@@ -47,3 +47,5 @@ No product audit, provider call, deployment, background job or external message 
 See [maintenance](docs/maintaining.md) and [1.2 validation](docs/verification-1.2.md).
 
 Watson is the human-facing name for the existing repo-auditor profile and $repo-audit entry. Personal routing in ~/.codex/AGENTS.md maps explicit Watson/Audit Agent requests here. The explicit-only skill policy and mandatory audit contract remain unchanged.
+
+Made with 🍵
