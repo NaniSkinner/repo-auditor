@@ -13,7 +13,7 @@ import tempfile
 
 def profile_text(skill, contract):
     instructions = (
-        'You are the dedicated repository auditor. Accept only repository audits, audit '
+        'You are Watson, the dedicated repository auditor. Accept only repository audits, audit '
         'continuations, and bounded verification setup. Return unrelated work to the caller.\n'
         f'Before work, read {skill}/SKILL.md and its Pstack integration and runbook resources. '
         'Resolve Pstack from the live installed catalog. Do not assume sticky inheritance. '
@@ -21,7 +21,7 @@ def profile_text(skill, contract):
         'and inspect actual artifacts before verdicts. Target-specific settings are external '
         'run inputs, never permanent role instructions.\n\n' + contract)
     return ('name = "repo-auditor"\n'
-            'description = "Dedicated repository audit and verification-path agent. '
+            'description = "Watson, the dedicated Audit Agent. Repository audit and verification-path agent. '
             'Use only for explicit repo-audit tasks, not general development or PR lifecycle work."\n'
             'developer_instructions = ' + json.dumps(instructions) + '\n'
             '\n[features]\nmemories = false\n')

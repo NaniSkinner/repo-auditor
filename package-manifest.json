@@ -6,11 +6,11 @@
     },
     {
       "path": "README.md",
-      "sha256": "19fa397a7d7842bd5ac9d2840ea7fa992adbcd0e80150c2824b2b93611ed5f7e"
+      "sha256": "b43d80b63d96fab85d299468ce1a3ae44a636c80696768ab60aa5e9ddc61e696"
     },
     {
       "path": "scripts_install.py",
-      "sha256": "f292c815869cfb8c7e5897f8734978c2849861b3b09dacb20610cfa8963ccd8b"
+      "sha256": "cf4ee1ed4e1f91d42f1e314889d3353263d8885a48683fb6c0b3c1def6970d3a"
     },
     {
       "path": "scripts_manifest.py",
@@ -26,7 +26,7 @@
     },
     {
       "path": "docs/verification-1.2.md",
-      "sha256": "7c7b55c75bc06233048b7adf026ab96050e880b9dd48c421a707537cb1c64785"
+      "sha256": "98b818646b2d39d62a0f1e7ef7c3c74491827f20252fc0dca6dda1325fbdfd98"
     },
     {
       "path": "templates/target-profile.md",
@@ -46,11 +46,11 @@
     },
     {
       "path": "repo-audit/SKILL.md",
-      "sha256": "9f23823313df0ffe147bece05041f9d0eb80e994b743c0474d856a02617c1c43"
+      "sha256": "0506ab4457fe937908c12d0cf7c37aae761c198b9500c8f58294835dca467a55"
     },
     {
       "path": "repo-audit/agents/openai.yaml",
-      "sha256": "0d9d1137bec94e5fe69c098d7c62369ac742f84eb5ca76aac3039c322904db26"
+      "sha256": "b9c06de7b5119f825004546e38e6b66b363e5e3cdc17cd8894001b08e3e6ba15"
     },
     {
       "path": "repo-audit/scripts/audit.py",

@@ -21,3 +21,9 @@ This is an explicitly prompted functional smoke check. The candidate knew it was
 ## Limits
 
 Hashes and structural gates detect drift and malformed receipts; they do not prove semantic truth, inventory completeness, approval authenticity, host isolation or absence of data exposure. Independent inspection of actual evidence and original requirements remains mandatory. No live product audit, staging request, provider call, infrastructure operation or repair was performed for this release. Local historical evaluation artifacts remain outside the tracked generic package.
+
+## Watson discovery alias, October 28, 2026
+
+Watson is the human-facing alias for the unchanged repo-auditor selector and $repo-audit entry. Entry/profile/UI labels and personal routing were updated; canonical contract 1.2.0 and explicit-only invocation policy remain unchanged. Initial installation tests correctly refused stale package hashes after metadata edits; regenerate the curated manifest before rerunning the package suite. A bounded fresh source routing check and post-refresh consistency checks are separate from full profile/audit behavioral acceptance. No C2.29 interaction or product audit is part of this change.
+
+After the manifest refresh, all 57 package tests passed. Fresh worker /root/agent_testing_watson_routing found no material routing defect in Watson audit, ordinary PR verification or Hiro research selection. Owned profile refresh succeeded and self-check returned INSTALLATION_VALID; new host dispatch after this label-only change remains untested. Existing Skill Creator validation passed. Supported review export and before-state profile/receipt backups are retained in the originating Codex workspace outputs/agent-discovery-20261028.

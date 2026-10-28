@@ -1,4 +1,4 @@
-# Repository auditor
+# Watson — Repository Auditor
 
 A personal, explicitly invoked Codex custom agent for brownfield repository assessment and trustworthy verification. The mandatory contract is embedded in the installed profile; the skill supplies supporting procedures. Actual installed Pstack workflows own investigation, delegation, verification construction and evaluation. This repository does not vendor Pstack or create another controller.
 
@@ -45,3 +45,5 @@ Use the built-in Skill Creator validation for the skill frontmatter. `audit.py d
 No product audit, provider call, deployment, background job or external message is authorized by installing this package. Profiles inherit actual parent permissions; instructions and hashes do not create a sandbox.
 
 See [maintenance](docs/maintaining.md) and [1.2 validation](docs/verification-1.2.md).
+
+Watson is the human-facing name for the existing repo-auditor profile and $repo-audit entry. Personal routing in ~/.codex/AGENTS.md maps explicit Watson/Audit Agent requests here. The explicit-only skill policy and mandatory audit contract remain unchanged.
